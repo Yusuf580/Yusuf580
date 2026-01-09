@@ -1,8 +1,18 @@
-👋 Hello, I'm Mugoya Yusuf, a dedicated student at Makerere University, passionately pursuing a Bachelor's Degree in Software Engineering. Proficient in HTML, CSS, Python, JavaScript, Java, and adept at graphics design using Adobe Illustrator, I'm deeply committed to mastering the intricacies of technology. 🎓💻
+👋 Hello, I'm Mugoya Yusuf, a passionate and versatile Software Engineering student at Makerere University, currently advancing my expertise with a certificate in Electric Vehicle Mobility & Technology. My journey blends fullstack software development, graphic design, and a growing ambition to innovate in robotics, intelligent mobility, and autonomous systems.
 
-As an avid learner, I'm always eager to delve into new technologies and methodologies, constantly expanding my skill set to realize my dreams. 🚀 Whether it's coding elegant solutions or crafting visually stunning designs, I thrive on pushing boundaries and exploring the latest innovations in the field. 🔍
+💻 **Technical Expertise:**
+- **Web Development:** HTML5, CSS3, JavaScript, React.js, TailwindCSS, Node.js, Express.js, Laravel, PHP
+- **Programming & Backend:** Python, Django, Java, Go, TypeScript, MySQL, PostgreSQL
+- **Mobile Development:** Android (Kotlin, Jetpack Compose)
+- **Data Science & AI:** Python-based tools, Neural Networks, Deep Learning, Generative AI
+- **UI/UX & Design:** Figma, Adobe Photoshop, Adobe Illustrator
+- **DevOps & Cloud:** Docker, CI/CD, Render, Vercel, Google Cloud
+- **Workflow & Tools:** Git, GitHub, Agile methodologies
 
-Beyond the realm of technology, I find joy and balance in a variety of sports activities, including the strategic depths of chess, the exhilaration of soccer, and the camaraderie of basketball. From planning my next move on the chessboard to scoring goals on the soccer field and sinking shots on the basketball court, each sport offers its own unique challenges and rewards. ⚽🏀♟️
+🚀 I've contributed to and led real-world projects, from web apps like **Avents Safari** to mobile solutions, implementing end-to-end functionality, payment integration, deployment, and user-centric designs. These experiences strengthened my technical, problem-solving, and collaborative skills.
 
-Driven by a relentless pursuit of excellence, I approach every task with enthusiasm, determination, and a thirst for knowledge. I believe that with each new skill acquired and each challenge overcome, I'm one step closer to realizing my full potential as both a student and a tech enthusiast. 💪✨
+♟️ Outside tech, I enjoy chess, soccer, and basketball—activities that sharpen strategy, focus, teamwork, and resilience, traits I carry into coding and team projects.
+
+🌟 I’m eager to apply my skills in software engineering and robotics to build intelligent, responsive systems, particularly in autonomous transport and smart mobility.
+
 
